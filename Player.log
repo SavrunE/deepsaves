@@ -1,0 +1,248 @@
+Initialize engine version: 2022.3.7f1 (b16b3b16c7a0)
+[Subsystems] Discovering subsystems at path G:/SteamLibrary/steamapps/common/Deep Rock Survivor/DRG Survivor_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   NVIDIA
+    VRAM:     8059 MB
+    Driver:   31.0.15.5176
+<RI> Initializing input.
+New input system (experimental) initialized
+Using Windows.Gaming.Input
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.926000 ms
+GAME VERSION: 0.2.188d
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+BootstrapInstaller:InstallBindings()
+Zenject.Context:InstallInstallers(List`1, List`1, List`1, List`1, List`1)
+Zenject.ProjectContext:InstallBindings(List`1)
+Zenject.ProjectContext:Initialize()
+Zenject.ProjectContext:InstantiateAndInitialize()
+Zenject.ProjectContext:get_Instance()
+Zenject.SceneContext:RunInternal()
+Zenject.RunnableContext:Initialize()
+
+OnControlsChanged: Keyboard&Mouse
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+InputHandler:OnControlsChanged(PlayerInput)
+UnityEngine.InputSystem.PlayerInput:HandleControlsChanged()
+UnityEngine.InputSystem.PlayerInput:OnEnable()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Material UI_Grunger doesn't have _Stencil property
+UnityEngine.Logger:Log(LogType, Object, Object)
+UnityEngine.Debug:LogWarning(Object, Object)
+UnityEngine.UI.StencilMaterial:LogWarningWhenNotInBatchmode(String, Object)
+UnityEngine.UI.StencilMaterial:Add(Material, Int32, StencilOp, CompareFunction, ColorWriteMask, Int32, Int32)
+UnityEngine.UI.MaskableGraphic:GetModifiedMaterial(Material)
+UnityEngine.UI.Graphic:get_materialForRendering()
+UnityEngine.UI.Image:UpdateMaterial()
+UnityEngine.UI.Graphic:Rebuild(CanvasUpdate)
+UnityEngine.UI.CanvasUpdateRegistry:PerformUpdate()
+DRS.UI.UIInputLegend:Show(String, String, String, String)
+DRS.UI.UIInputLegendSetting:OnVisible(Boolean)
+Zenject.InitializableManager:Initialize()
+
+Milestones loaded 155
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DRS.UI.UIMilestoneForm:OnMilestonesLoaded()
+DRS.UI.UIMilestoneForm:Start()
+
+Achivement ach-unlock-scout Is Unlocked
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+SteamAchivements:IsAchievementUnlocked(String)
+<IEDelayedStartupCheck>d__8:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Opt in
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+GameOptionsManager:Save()
+<IEInitLocale>d__37:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Failed to find channel matching: 'Mixer.Master.META'. Using default channel.
+UnityEngine.Logger:LogFormat(LogType, String, Object[])
+UnityEngine.Debug:LogWarningFormat(String, Object[])
+FundayGames.Audio.AudioSourceObject:Play(AudioSampleGroup, Boolean)
+FundayGames.Audio.Pool:OnSpawned(AudioSourceObject, AudioSampleGroup, Boolean, Object, Nullable`1, Transform)
+FundayGames.Audio.Utilities.MonoPool`6:Spawn(T0, T1, T2, T3, T4)
+FundayGames.Audio.InternalAudioManager:Play(AudioSampleGroup, Object, Nullable`1, Transform)
+FundayGames.Audio.InternalAudioManager:Play(Int32, Vector3)
+FundayGames.Audio.AudioManager:Play(String)
+Assets.Scripts.Audio.MenuAmbience:<Start>b__4_0()
+Assets.Scripts.<IEDelayFunc>d__1:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Trying to upgrade stat msu_reloadSpeed from level 8
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DRS.UI.UIStatUpgradeForm:OnTryBuyUpgrade(UIStatUpgradeButton)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+SAVE! 15,69783
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:LogWarning(Object)
+DRS.SaveSystem.SaveDataManager:Save()
+DRS.SaveSystem.SaveDataManager:SetStatUpgradeLevel(String, Int32, Boolean)
+DRS.UI.UIStatUpgradeForm:OnTryBuyUpgrade(UIStatUpgradeButton)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
+BACKUP SAVED
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+DRS.SaveSystem.SaveDataManager:TrySaveBackup()
+DRS.SaveSystem.SaveDataManager:Save()
+DRS.SaveSystem.SaveDataManager:SetStatUpgradeLevel(String, Int32, Boolean)
+DRS.UI.UIStatUpgradeForm:OnTryBuyUpgrade(UIStatUpgradeButton)
+UnityEngine.Events.InvokableCall:Invoke(Object[])
+UnityEngine.Events.UnityEvent:Invoke()
+UnityEngine.EventSystems.ExecuteEvents:Execute(GameObject, BaseEventData, EventFunction`1)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointerButton(ButtonState&, PointerEventData)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:ProcessPointer(PointerModel&)
+UnityEngine.InputSystem.UI.InputSystemUIInputModule:Process()
+UnityEngine.EventSystems.EventSystem:Update()
+
